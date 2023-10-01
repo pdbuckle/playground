@@ -1,2 +1,2 @@
 # playground
-Area for experimtenting and testing
+Area for experimenting and testing
